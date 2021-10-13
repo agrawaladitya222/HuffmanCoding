@@ -1,0 +1,1 @@
+This program implements a huffman encoder and decoder using the huffman coding algorithm. To build the program run make or make all to make just the encoder, decoder, or entropy file run make and then add the file u want to make. The program supports the options to specify an infile, outfile, print statistics, and a help message.
